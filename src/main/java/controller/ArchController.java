@@ -10,7 +10,7 @@ public class ArchController {
 	@RequestMapping("/")
 	public String homeReturn()
 	{
-		return "home";
+		return "index";
 	}
 
 }
